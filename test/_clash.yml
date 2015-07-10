@@ -167,7 +167,7 @@
     - new_posts
     - octopress isolate _posts/2011-11-11-a-random-post.markdown
   compare:
-    - _expected/isolate-path/_posts _posts
+    - _expected/isolate-path/_posts _posts 
 -
   title: Integrate posts
   before:
