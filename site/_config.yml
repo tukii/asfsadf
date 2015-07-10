@@ -1,4 +1,4 @@
-url: http://tukii.github.io
+url: http://tukii.github.com
 markdown: redcarpet
 exclude:
   - Gemfile
